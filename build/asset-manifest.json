@@ -1,0 +1,14 @@
+{
+  "main.css": "/weatherApp/static/css/main.0664be0d.chunk.css",
+  "main.js": "/weatherApp/static/js/main.18d41b71.chunk.js",
+  "main.js.map": "/weatherApp/static/js/main.18d41b71.chunk.js.map",
+  "runtime~main.js": "/weatherApp/static/js/runtime~main.25533534.js",
+  "runtime~main.js.map": "/weatherApp/static/js/runtime~main.25533534.js.map",
+  "static/js/2.0f2e3a92.chunk.js": "/weatherApp/static/js/2.0f2e3a92.chunk.js",
+  "static/js/2.0f2e3a92.chunk.js.map": "/weatherApp/static/js/2.0f2e3a92.chunk.js.map",
+  "index.html": "/weatherApp/index.html",
+  "precache-manifest.c974bbc6dd9f3a7169ddeefa1313b567.js": "/weatherApp/precache-manifest.c974bbc6dd9f3a7169ddeefa1313b567.js",
+  "service-worker.js": "/weatherApp/service-worker.js",
+  "static/css/main.0664be0d.chunk.css.map": "/weatherApp/static/css/main.0664be0d.chunk.css.map",
+  "static/media/img_london.jpg": "/weatherApp/static/media/img_london.e913c72e.jpg"
+}
